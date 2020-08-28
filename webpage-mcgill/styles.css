@@ -1,0 +1,52 @@
+body
+{
+  text-align: center
+}
+
+header
+{
+  text-align: center
+}
+
+main
+{
+  text-align: center
+}
+
+footer
+{
+  text-align: center
+}
+
+.fonts
+{
+  font-family: "Georgia"
+}
+
+.fontsize
+{
+  font-size: 22px
+}
+
+.fontsize2
+{
+  font-size: 30px
+}
+
+.backgroundColor
+{
+  background-color: rgb(133, 207, 248)
+}
+
+.colorButton
+{
+  font-size: 22px;
+  background-color: rgb(251, 94, 117);
+  color: rgb(255, 255, 255)
+}
+
+.colorHighlight
+{
+  background-color: rgb(134, 234, 74);
+  color: rgb(0, 0, 255)
+}
